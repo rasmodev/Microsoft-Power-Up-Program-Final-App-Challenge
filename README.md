@@ -1,4 +1,4 @@
-# Power Up Program Final App Challenge: Adventure Works Cycles - Employee Discount Program
+# Microsoft Power Up Program Final App Challenge: Adventure Works Cycles - Employee Discount Program
 ## App Screenshot - Homepage
 ![App Screenshot](https://github.com/rasmodev/Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Power_App_Home.png)
 
