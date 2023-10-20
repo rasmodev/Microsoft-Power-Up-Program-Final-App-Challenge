@@ -1,4 +1,6 @@
-# Power Up Program Final App Challenge: Adventure Works Cycles - Employee Discount Program
+# Microsoft Power Up Program Final App Challenge: Adventure Works Cycles - Employee Discount Program
+## App Screenshot - Homepage
+![App Screenshot](https://github.com/rasmodev/Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Power_App_Home.png)
 
 # Overview
 The final assignment of the Microsoft Power Up Program was centered around creating a robust app for Adventure Works Cycles to facilitate their Employee Discount Program. The objective was to leverage the Power Platform to design an app that enabled employees to purchase products at a discounted rate of 20% and meet other specific business requirements.
