@@ -1,7 +1,4 @@
 # Microsoft Power Up Program Final App Challenge: Adventure Works Cycles - Employee Discount Program
-## App Screenshot - Homepage
-![App Screenshot](https://github.com/rasmodev/Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Power_App_Home.png)
-
 # Overview
 The final assignment of the Microsoft Power Up Program was centered around creating a robust app for Adventure Works Cycles to facilitate their Employee Discount Program. The objective was to leverage the Power Platform to design an app that enabled employees to purchase products at a discounted rate of 20% and meet other specific business requirements.
 
@@ -39,12 +36,31 @@ Adventure Works Cycles provided a list of requirements for the employee discount
 
 ## Solution Steps:
 1. **App Setup:** I created a PowerApps app with screens for welcoming the user, product catalog, shopping cart, and order history.
+## App Screenshot - Homepage
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Power_App_Home.JPG)
 
-2. **Data Source:** I used a sharePoint list and Dataverse to manage product details, orders, and stock information.
+## App Screenshot - Products Page
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Power_App_Products_Page.png)
 
-3. **Product Catalog:** Display products with regular and discounted prices based on the 20% discount.
+## App Screenshot - Add To Cart
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/continue_shopping.JPG)
 
-4. **Shopping Cart:** Enable employees to add products to their cart and proceed to checkout.
+## App Screenshot - Shopping Cart
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Shopping_Basket.JPG)
+
+## App Screenshot - Order Placement
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Order_Placement.JPG)
+
+## App Screenshot - Order History
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/Order_History.JPG)
+
+2. **Data Source:** I used a SharePoint list and Dataverse to manage product details, orders, and stock information.
+## App Screenshot - Data Source - SharePoint List
+![App Screenshot](https://github.com/rasmodev/Microsoft-Power-Up-Program-Final-App-Challenge/blob/main/Screenshots/sharepoint_list.JPG)
+
+4. **Product Catalog:** Display products with regular and discounted prices based on the 20% discount.
+
+5. **Shopping Cart:** Enable employees to add products to their cart and proceed to checkout.
   
 6. **Checkout Process:** I implemented a checkout process with confirmation and email notifications.
 
