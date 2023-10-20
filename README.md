@@ -3,7 +3,7 @@
 The final assignment of the Microsoft Power Up Program was centered around creating a robust app for Adventure Works Cycles to facilitate their Employee Discount Program. The objective was to leverage the Power Platform to design an app that enabled employees to purchase products at a discounted rate of 20% and meet other specific business requirements.
 
 # Business Scenario
-Adventure Works Cycles, a global bicycle company, sought a solution to enhance their employee discount program. The goal was to provide employees with an intuitive interface to browse products, apply the employee discount, and streamline the purchasing process.
+Adventure Works Cycles, a global bicycle company, sought a solution to enhance its employee discount program. The goal was to provide employees with an intuitive interface to browse products, apply the employee discount, and streamline the purchasing process.
 
 ## User Requirements
 Adventure Works Cycles provided a list of requirements for the employee discount program app:
